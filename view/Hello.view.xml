@@ -1,0 +1,6 @@
+<mvc:View controllerName="ui5.controller.Hello"
+	xmlns="sap.m" xmlns:mvc="sap.ui.core.mvc">
+
+    <Button id="helloButtonId" text="{hello>/buttonText}" press="doIt"  />
+
+</mvc:View>
